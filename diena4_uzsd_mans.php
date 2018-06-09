@@ -38,6 +38,7 @@ echo($var2);
 
 echo($var);
 fap($var);
+echo($var);
 
 
 //var_dump( $array );// var_dump -  izdrukā array masīva  info ! 
